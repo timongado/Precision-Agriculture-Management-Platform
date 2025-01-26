@@ -1,0 +1,2 @@
+# Precision Agriculture Management Platform
+ 
